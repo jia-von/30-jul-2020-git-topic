@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import About from './components/About';
 import Services from './components/Services';
+import Jarjar from './components/Jarjar';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <p>Let's practice Git Branching and Merging</p>
       <About />
       <Services />
+      <Jarjar />
     </div>
   );
 }
