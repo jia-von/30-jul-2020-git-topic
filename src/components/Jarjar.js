@@ -8,6 +8,8 @@ class Jarjar extends React.Component
             <>
                 <h1>GitHub Repository Practice</h1>
                 <p>Hello Jia, We are working on github to make sure we understand git commands and branches properly.</p>
+                <p>Hello Jia, We are working on github to make sure we understand git commands and branches properly.</p>
+                <p>Hello Jia, We are working on github to make sure we understand git commands and branches properly.</p>
             </>
         );
     }
